@@ -1,0 +1,5 @@
+{
+    "kube-context": "minikube",
+    "kube-job-template-path": "/home/sbugallo/Projects/Personal/mlflow_on_kubernetes/manifests/mlflow_project/job.yaml",
+    "repository-uri": "sbugallo/mlflow-k8s"
+}
