@@ -38,8 +38,8 @@ spec:
 
 ## Secrets
 
-To set up our credentials, we are going to use a secret. Change \<MINIO USERNAME\> and 
-\<MINIO PASSWORD\> to any value you like encoded in based64. 
+To set up our credentials, we are going to use a secret. Change `<MINIO USERNAME>` and 
+`<MINIO PASSWORD>` to any value you like encoded in base 64. 
 
 ```yaml
 apiVersion: v1

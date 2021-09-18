@@ -48,6 +48,9 @@ Once the image is build, simply push it running
 $ docker push sbugallo/mlflow-sample-env:0.0.1
 ```
 
+> **Note**: if you want to run GPU-enabled trainings, you should use some image from 
+  [nvidia/cuda](https://hub.docker.com/r/nvidia/cuda) instead of miniconda as your base image.
+  
 ## Project
 
 Next, let's create the MLflow Project files.

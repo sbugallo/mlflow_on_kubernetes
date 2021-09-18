@@ -12,3 +12,7 @@ projects inside the cluster.
 3. [Set up PostgreSQL](docs/setup_postgres.md)
 4. [Set up MLflow server](docs/setup_server.md)
 5. [Run MLflow projects](docs/run_mlflow_project.md)
+
+## Navigation
+
+- Next: [Set up cluster](docs/setup_cluster.md)
